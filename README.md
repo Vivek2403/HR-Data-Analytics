@@ -1,10 +1,14 @@
 # HR-Data-Analytics
 
+
+
 Introduction:-
 
 Unleash the power of your people data with this interactive HR analytics dashboard built on Power BI. It transforms raw HR information into actionable insights, revealing workforce composition, talent acquisition & retention trends, and employee performance (if data available).  Make data-driven decisions, optimize HR practices, boost employee engagement, and align HR strategy with business goals for a thriving workforce and long-term success.
 
  HR Analytics Dashboard created with Microsoft Power BI. The dashboard displays a variety of metrics and insights related to human resources, allowing users to analyze trends, identify patterns, and gain a better understanding of their workforce.
+
+![s](https://github.com/Vivek2403/HR-Data-Analytics/assets/173031263/3a06127c-16d0-48cb-87f2-db2fc556e461)
 
 Here’s a detailed breakdown of the dashboard elements you provided:
 
