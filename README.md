@@ -4,7 +4,7 @@ Introduction:-
 
 Unleash the power of your people data with this interactive HR analytics dashboard built on Power BI. It transforms raw HR information into actionable insights, revealing workforce composition, talent acquisition & retention trends, and employee performance (if data available).  Make data-driven decisions, optimize HR practices, boost employee engagement, and align HR strategy with business goals for a thriving workforce and long-term success.
 
-The above screenshot  is of an HR Analytics Dashboard created with Microsoft Power BI. The dashboard displays a variety of metrics and insights related to human resources, allowing users to analyze trends, identify patterns, and gain a better understanding of their workforce.
+ HR Analytics Dashboard created with Microsoft Power BI. The dashboard displays a variety of metrics and insights related to human resources, allowing users to analyze trends, identify patterns, and gain a better understanding of their workforce.
 
 Here’s a detailed breakdown of the dashboard elements you provided:
 
